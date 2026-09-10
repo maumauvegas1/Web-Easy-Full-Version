@@ -238,3 +238,6 @@ This repository serves as the official landing page for Web Easy. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Web Easy today!**
+
+---
+**Last updated:** 2026-09-10 14:04:03 UTC
